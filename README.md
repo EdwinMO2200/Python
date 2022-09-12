@@ -1,2 +1,2 @@
-# Pyytthon
+# Python
 Learning python 
