@@ -1,2 +1,2 @@
 # Python
-Learning python 
+Little projects with Python 
